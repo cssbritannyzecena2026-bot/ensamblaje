@@ -1,0 +1,60 @@
+body {
+    background-color: black !important;
+}
+
+.titulo
+{
+    text-align: center;
+    position: relative;
+    margin: 40px 0;
+    color: #010135;
+
+   }
+ 
+.poder {
+    background-color: #01528A;
+    color: white;
+    padding: 40px;
+    width: 100%;
+    margin: 50px 0;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.poder h2 {
+    font-family: 'Lobster Two';
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.poder p {
+    font-size: 20px;
+    line-height: 1.6;
+}
+.valores-container {
+    background-color: #0096D3;
+    color: white;
+    padding: 40px;
+    width: 100%;
+    margin: 50px 0;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+.valores p {
+    font-size: 20px;
+    line-height: 1.6;
+}
+.n1 {
+    background-color: #0096D3;
+    color: white;
+    padding: 40px;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 50px 0;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+.n1 p {
+    font-size: 20px;
+    line-height: 1.6;
+}
